@@ -1,0 +1,160 @@
+header {
+    background: url(images/background-image.jpg) no-repeat center center;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 500px; 
+}
+
+
+.logo {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    padding: 50px;
+    font-weight: 500px;
+    font-size: 30px;
+}
+
+.center {
+    text-align: center;
+    color: #ffffff;
+    margin: 60px;
+}
+
+li {
+    display: inline-block; 
+}
+
+a {
+    color: #ffffff; 
+    padding: 20px;
+}
+
+.start {
+    text-align: right;
+    margin-right: 90px;
+}
+
+.button {
+    border: 1.9px solid #ffffff;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 1px;
+   
+}
+article {
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.push {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    color: #787777;
+}
+
+h3 {
+    color: #a6a6a6;
+}
+
+p {
+    color: #787777;
+}
+
+aside {
+    float: right;
+}
+
+/* .grid-1 {
+    text-align: center;
+    float: left;
+    display: grid; */
+}
+.middle {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    background-color: #002633;
+    justify-content: center;
+    text-align: center;
+ 
+}
+
+.container div {
+    padding: 5px;
+}
+h4 {
+    color: #737373;
+}
+
+/* div.A {
+    border: 2px solid #999999;
+    padding: 20px;
+    width: 50%;
+    align-content: center;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    font-style: italic; 
+    letter-spacing: 1px;
+    font-size: 150%
+    letter-spacing: 1px;
+    font-weight: 800;
+} */
+
+.middle {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+    color: #737373;
+}
+main {
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.grid-1 {
+    margin-left: 10x;
+    color: #a6a6a6;
+}
+
+.pic {
+    float: right;
+    margin-left: 100px;
+}
+
+.paragraph {
+    padding-bottom: 50px;
+    padding-top: 30px;
+    line-height: 40%;
+    text-align: justify;
+    padding-left: 20px;
+  
+}
+
+.pic-2 {
+justify-content: left;
+}
+
+.sentence {
+    line-height: 40%;
+    text-align: justify;
+    padding-top: 15px;
+}
+
+main {
+    justify-content: center;
+}
